@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TheRhet0rical
+- 🌳 I already know python, squirrel, and javascript.
+- 👀 I’m interested in working on shit projects or collaborating on a project.
+- 🌱 I’m currently learning node.js and C++
+- 💞️ I’m looking to collaborate on anything interesting.
+- 📫 You can reach me at meddakee2000@gmail.com (Please Don't Send Me Spam.)
