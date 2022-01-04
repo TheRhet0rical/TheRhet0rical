@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheRhet0rical
-- 🌳 I can code in Python, PHP, and somewhat javascript
+- 🌳 I can code in Python, HTML, And Javascript
 - 👀 I’m interested in working on shit projects or collaborating on a project.
 - 🌱 I’m finishing on learning Javascript and HTML
 - 💞️ I’m looking to collaborate on anything interesting.
