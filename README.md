@@ -1,4 +1,4 @@
-# > RedOS Description And Introduction
+# > RedOS Description And Introduction (Coming Soon)
 ## What Is RedOS?
 RedOS is a modifiable and open source Mock-OS created using python. I created this to help me learn the language more and allow me to confine myself to more advanced operations, even though python may be the easiest coding language to learn.
 
